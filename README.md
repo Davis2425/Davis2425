@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+const SamuelDavid = {
+  📢lookingFor: ["Frontend developer job"];
+  🔭code: ["JavaScript", "HTML/CSS"];
+  💬askMeAbout: ["Problem Solving", "Music", "Content Creation",];
+  🌱challenge: ["I hope to build my skills on other tools like React, Python"];
+  ⚡funFacts: ['I am working tirelessly to be proficient in Web Development','I am available for Job offers'];
+}
 <!--
 **Davis2425/Davis2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
