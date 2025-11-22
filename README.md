@@ -2,7 +2,7 @@
 const SamuelDavid = {
   📢lookingFor: ["Frontend developer job"];
   🔭code: ["JavaScript", "HTML/CSS"];
-  💬askMeAbout: ["Problem Solving", "Music", "Content Creation",];
+  💬askMeAbout: ["Problem Solving", "Music", "Content making",];
   🌱challenge: ["I hope to build my skills on other tools like React, Python"];
   ⚡funFacts: ['I am working tirelessly to be proficient in Web Development','I am available for Job offers'];
 }
